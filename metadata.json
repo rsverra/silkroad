@@ -1,0 +1,6 @@
+{
+  "name": "MockupStudio - Realistic Product & Merch Visualizer",
+  "description": "Upload or generate your logo and preview it in real-time on photorealistic mugs, t-shirts, hoodies, caps, tote bags, and more with 1K/2K/4K export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
